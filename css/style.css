@@ -1,0 +1,60 @@
+h2 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#body {
+    background-color: #f6f5f1;
+    margin: auto;
+}
+
+#title {
+    text-align: right;
+}
+
+#subheader1 {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+
+#content {
+    margin-left: 200px;
+}
+
+#navbar {
+
+}
+
+#introBlock {
+    background-color: #a8baa4;
+    padding: 20px;
+}
+
+#nav-item {
+    background-color: #a8baa4;
+}
+
+.slide {
+    width: 40%;
+}
+
+#problem {
+background-color: white;
+padding: 40px
+}
+
+#footer {
+    grid-area: footerContent;
+    background-color: #88292f;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-top: 30px;
+}
+
+#logo {
+    width: 13%;
+    margin-left: 15%;
+}
