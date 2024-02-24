@@ -22,8 +22,8 @@ h2 {
     margin-left: 200px;
 }
 
-#navbar {
-
+#navbar a {
+    color: white;
 }
 
 #introBlock {
@@ -57,4 +57,8 @@ padding: 40px
 #logo {
     width: 13%;
     margin-left: 15%;
+}
+
+.webpage {
+    width: 100%;
 }
